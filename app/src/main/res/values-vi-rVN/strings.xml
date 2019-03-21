@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">toán học</string>
+    <string name="hint_screen">câu đáp</string>
+    <string name="button_check">Kiểm tra</string>
+    <string name="button_next">tiếp theo</string>
+    <string name="accieve">Bạn đã trả lời đúng</string>
+    <string name="NumofE" translatable="false">bài tập</string>
+</resources>

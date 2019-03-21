@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">数学训练师</string>
+    <string name="hint_screen">答案</string>
+    <string name="button_check">检查</string>
+    <string name="button_next">下一题</string>
+    <string name="accieve">你已经答对了</string>
+    <string name="NumofE">道题了</string>
+</resources>

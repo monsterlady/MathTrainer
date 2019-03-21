@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">matematika Trener</string>
+    <string name="hint_screen">odgovor</string>
+    <string name="button_check">ček</string>
+    <string name="button_next">sljedeći</string>
+    <string name="accieve">Ispravno ste odgovorili na</string>
+    <string name="NumofE">vježbi</string>
+</resources>

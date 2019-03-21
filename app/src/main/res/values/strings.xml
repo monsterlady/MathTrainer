@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MathTrainer</string>
+    <string name="hint_screen">Answer</string>
+    <string name="button_check">check</string>
+    <string name="button_next">Next</string>
+    <string name="accieve">You have correctly answered</string>
+    <string name="NumofE"> execises</string>
 </resources>
